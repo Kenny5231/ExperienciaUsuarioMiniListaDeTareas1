@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './App.jsx'; // Asegúrate de que App.jsx exista y esté bien escrito
+import App from './App.jsx'; 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
